@@ -1,2 +1,2 @@
 # pilot
-clase github
+Bienvenido a Diario Local
